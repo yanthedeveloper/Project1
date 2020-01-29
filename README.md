@@ -20,6 +20,9 @@ Drivers to explore
 ------------------
 
 Our team is planning to explore what the are the primary factors which impact the price of housing in the Atlanta region. Some of the questions that we seek to explain include:
+
+
+
 1. What factors are indicative of a stable housing market vs a growing housing market?
 
 2. Which factors are seen as a cause of an increasing housing market and what are seen as more of an effect?
